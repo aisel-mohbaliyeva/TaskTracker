@@ -29,5 +29,4 @@ A simple Task Tracker app built with SwiftUI and SwiftData.
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
-
+<img src="screenshot.png" width="300">
