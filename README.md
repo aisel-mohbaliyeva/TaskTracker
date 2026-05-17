@@ -6,8 +6,8 @@ A simple Task Tracker app built with SwiftUI and SwiftData.
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks with swipe gesture
-- Local data persistence
-- Dynamic task list with `List` & `ForEach`
+- Local data persistence with SwiftData
+- Dynamic task list using `List` and `ForEach`
 
 ## 🛠 Technologies
 - Swift 6
@@ -21,6 +21,7 @@ A simple Task Tracker app built with SwiftUI and SwiftData.
 - User input with `TextField`
 - Dynamic UI using `ForEach`
 - Gesture handling with `onTapGesture`
+- Swipe to delete functionality
 - CRUD operations
 - Local persistence with SwiftData
 - Debugging common SwiftUI errors
@@ -30,3 +31,4 @@ A simple Task Tracker app built with SwiftUI and SwiftData.
 ## 📸 Screenshot
 
 <img src="screenshot.png" width="300">
+
