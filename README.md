@@ -28,8 +28,6 @@ A simple Task Tracker app built with SwiftUI and SwiftData.
 - Basic project structure
 
 ## 📸 Screenshot
-(Add app screenshot here)
 
-## 👤 Author
-Aysel Mohbaliyeva
-Aspiring iOS Developer 🚀
+![App Screenshot](screenshot.png)
+
